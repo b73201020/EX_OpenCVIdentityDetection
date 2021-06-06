@@ -16,13 +16,19 @@
 
 * Make sure that you are running Python 3.
 
+## Development Roadmap
 
-### Contributing
+- No new features planned at present. To request a change or additional functionality, or to file a bug, please open a github issue and/or contact online@jsyeh.com.
+## Contributing
 
 Please feel free to raise issues and pull requests on
-[the github repository](https://github.com/b73201020/111projectenv).
+[the github repository](https://github.com/b73201020/EX_OpenCVIdentityDetection).
 
-### Credits
+## Credits
 
 We owe significant thanks to the original developer 
 It is far easier to update something that already works well than to forge a new path from scratch.
+
+## Authors
+
+- George YEH, online@jsyeh.com
